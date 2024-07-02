@@ -1,1 +1,4 @@
-
+Mozilla/5.0 (Linux; U; Android 4.2.1; ru-ru; Lenovo P780_ROW Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30[FBAN/EMA;FBLC/en_US;FBAV/89.0.0.16.182;]
+Mozilla/5.0 (Linux; U; Android 4.2.1; ru-ru; Lenovo P780_ROW Build/JOP40D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30[FBAN/EMA;FBLC/en_US;FBAV/64.0.0.31.170;]
+Mozilla/5.0 (Linux; U; Android 4.3; ru-ru; NokiaX2DS Build/JLS36C) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30[FBAN/EMA;FBLC/en_US;FBAV/86.0.0.9.190;]
+Mozilla/5.0 (Linux; U; Android 4.2.2; ru-ru; XtremePQ15 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30[FBAN/EMA;FBLC/en_US;FBAV/89.0.0.16.182;]
