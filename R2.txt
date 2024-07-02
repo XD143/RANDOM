@@ -1,1 +1,5 @@
-
+Mozilla/5.0 (Linux; U; Android 4.1.2; uk-ua; LG-P765 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30[FBAN/EMA;FBLC/en_US;FBAV/81.0.0.11.188;]
+Mozilla/5.0 (Linux; U; Android 4.2.2; ru-ru; X-treme PQ15 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30[FBAN/EMA;FBLC/en_US;FBAV/89.0.0.16.182;]
+Mozilla/5.0 (Linux; U; Android 4.1.2; lv-lv; HTC Desire 500 dual sim Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30[FBAN/EMA;FBLC/lv_LV;FBAV/87.0.0.7.184;]
+Mozilla/5.0 (Linux; U; Android 4.2.2; ru-ru; Fly IQ4403 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30[FBAN/EMA;FBLC/en_US;FBAV/74.0.0.6.186;]
+Mozilla/5.0 (Linux; U; Android 4.2.2; ru-ru; HUAWEI Y511-U30 Build/HUAWEIY511-U30) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30[FBAN/EMA;FBLC/ru_RU;FBAV/42.0.0.3.64;]
