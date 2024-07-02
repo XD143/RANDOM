@@ -1,1 +1,4 @@
-
+Mozilla/5.0 (Linux; U; Android 4.2.2; es-la; ALCATEL ONE TOUCH 5036A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.2 Mobile Safari/534.30[FBAN/EMA;FBLC/en_US;FBAV/40.0.0.5.68;]
+Mozilla/5.0 (Linux; U; Android 4.2.2; ru-ru; GT-P3100 Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30[FBAN/EMA;FBLC/ru_RU;FBAV/88.0.0.6.182;]
+Mozilla/5.0 (Linux; U; Android 4.1.2; ru-ru; Lenovo A760 Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30[FBAN/EMA;FBLC/en_US;FBAV/91.0.0.6.186;]
+Mozilla/5.0 (Linux; U; Android 4.2.2; uk-ua; C2305 Build/16.0.B.2.16) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30[FBAN/EMA;FBLC/en_US;FBAV/87.0.0.7.184;]
